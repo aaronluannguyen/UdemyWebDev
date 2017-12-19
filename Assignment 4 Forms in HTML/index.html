@@ -12,9 +12,9 @@
         <form>
             <div>
                 <label for = "first name"> First Name: </label>
-                <input id = "first name" type = "text" placeholder = "First Name" required>
+                <input name = "first" id = "first name" type = "text" placeholder = "First Name" required>
                 <label for = "last name"> Last Name: </label>
-                <input id = "last name" type = "text" placeholder = "Last Name" required>
+                <input name = "last"    id = "last name" type = "text" placeholder = "Last Name" required>
             </div>
             <div>
                 <label for = "male"> Male </label>
@@ -31,36 +31,38 @@
                 <input name = "password" id = "password" type = "password" placeholder = "Your Password" minlength = "5" maxlength = "10" required>
             </div>
             <div>
-                <label> Birthday: </label>
-                <select name = "Month" id = "month" required>
-                    <option value = ""> Month </option>
-                    <option value = "January"> January </option>
-                    <option value = "February"> February </option>
-                    <option value = "March"> March </option>
-                    <option value = "April"> April </option>
-                    <option value = "May"> May </option>
-                    <option value = "June"> June </option>
-                    <option value = "July"> July </option>
-                    <option value = "August"> August </option>
-                    <option value = "September"> September </option>
-                    <option value = "October"> October </option>
-                    <option value = "November"> November </option>
-                    <option value = "December"> December </option>
-                </select>
-                <select name = "Day" id = "Day" required>
-                    <option value = ""> Day </option>
-                    <option value = "1"> 1 </option>
-                    <option value = "2"> 2 </option>
-                    <option value = "3"> 3 </option>
-                    <option value = "4"> 4 </option>
-                    <option value = "5"> 5 </option>
-                </select>
-                <select name = "Year" id = "year" required>
-                    <option value = ""> Year </option>
-                    <option value = "2000"> 2000 </option>
-                    <option value = "1999"> 1999 </option>
-                    <option value = "1998"> 1998 </option>
-                </select>
+                <label>
+                    Birthday:
+                    <select name = "Month" id = "month" required>
+                        <option value = ""> Month </option>
+                        <option value = "January"> January </option>
+                        <option value = "February"> February </option>
+                        <option value = "March"> March </option>
+                        <option value = "April"> April </option>
+                        <option value = "May"> May </option>
+                        <option value = "June"> June </option>
+                        <option value = "July"> July </option>
+                        <option value = "August"> August </option>
+                        <option value = "September"> September </option>
+                        <option value = "October"> October </option>
+                        <option value = "November"> November </option>
+                        <option value = "December"> December </option>
+                    </select>
+                    <select name = "Day" id = "Day" required>
+                        <option value = ""> Day </option>
+                        <option value = "1"> 1 </option>
+                        <option value = "2"> 2 </option>
+                        <option value = "3"> 3 </option>
+                        <option value = "4"> 4 </option>
+                        <option value = "5"> 5 </option>
+                    </select>
+                    <select name = "Year" id = "year" required>
+                        <option value = ""> Year </option>
+                        <option value = "2000"> 2000 </option>
+                        <option value = "1999"> 1999 </option>
+                        <option value = "1998"> 1998 </option>
+                    </select>
+                </label>
             </div>
             <div>
                 <label for = "terms"> I agree to the terms and conditions </label>

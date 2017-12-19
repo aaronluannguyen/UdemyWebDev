@@ -26,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignment 4 Forms in HTML/index.html">
+      <file leaf-file-name="selectorsExercise.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment 5 CSS Selectors/selectorsExercise.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="30" column="136" lean-forward="false" selection-start-line="30" selection-start-column="136" selection-end-line="30" selection-end-column="136" />
+            <state relative-caret-position="156">
+              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selectors.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assignment 5 CSS Selectors/selectors.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,6 +70,8 @@
         <option value="$PROJECT_DIR$/Assignment 3 Pokemon Data Table/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Assignment 4 Forms in HTML/index.html" />
+        <option value="$PROJECT_DIR$/Assignment 5 CSS Selectors/selectors.css" />
+        <option value="$PROJECT_DIR$/Assignment 5 CSS Selectors/selectorsExercise.html" />
       </list>
     </option>
   </component>
@@ -236,7 +248,7 @@
       <workItem from="1513416127817" duration="6000" />
       <workItem from="1513416141920" duration="779000" />
       <workItem from="1513416975034" duration="1255000" />
-      <workItem from="1513473125444" duration="3880000" />
+      <workItem from="1513473125444" duration="4798000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed table formatting">
       <created>1513411877201</created>
@@ -249,7 +261,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9747000" />
+    <option name="totallyTimeSpent" value="10665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="3018" height="1968" extended-state="6" />
@@ -381,8 +393,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment 4 Forms in HTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="30" column="136" lean-forward="false" selection-start-line="30" selection-start-column="136" selection-end-line="30" selection-end-column="136" />
+        <state relative-caret-position="1254">
+          <caret line="63" column="20" lean-forward="false" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment 5 CSS Selectors/selectorsExercise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment 5 CSS Selectors/selectors.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
