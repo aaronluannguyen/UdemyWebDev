@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f672c6-bf1d-49e8-b55a-ef1601f1e73a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Assignment 4 Forms in HTML/index.html" afterPath="$PROJECT_DIR$/Assignment 4 Forms in HTML/index.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Assignment 5 CSS Selectors/selectors.css" afterPath="$PROJECT_DIR$/Assignment 5 CSS Selectors/selectors.css" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/Assignment 5 CSS Selectors/selectors.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -70,8 +71,8 @@
         <option value="$PROJECT_DIR$/Assignment 3 Pokemon Data Table/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Assignment 4 Forms in HTML/index.html" />
-        <option value="$PROJECT_DIR$/Assignment 5 CSS Selectors/selectors.css" />
         <option value="$PROJECT_DIR$/Assignment 5 CSS Selectors/selectorsExercise.html" />
+        <option value="$PROJECT_DIR$/Assignment 5 CSS Selectors/selectors.css" />
       </list>
     </option>
   </component>
@@ -88,10 +89,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="3018" />
-    <option name="height" value="1968" />
+    <option name="x" value="1201" />
+    <option name="y" value="-1375" />
+    <option name="width" value="1301" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -248,7 +249,7 @@
       <workItem from="1513416127817" duration="6000" />
       <workItem from="1513416141920" duration="779000" />
       <workItem from="1513416975034" duration="1255000" />
-      <workItem from="1513473125444" duration="4798000" />
+      <workItem from="1513473125444" duration="5950000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed table formatting">
       <created>1513411877201</created>
@@ -261,10 +262,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10665000" />
+    <option name="totallyTimeSpent" value="11817000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="3018" height="1968" extended-state="6" />
+    <frame x="-9" y="-1359" width="2418" height="1318" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -279,7 +280,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13358259" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="1049" y="-1264" width="301" height="1128" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13065755" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="1049" y="-1264" width="301" height="1128" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296328" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24978651" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24978651" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -367,13 +368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assignment 3 Pokemon Data Table/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
@@ -407,10 +401,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assignment 5 CSS Selectors/selectors.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           <folding />
         </state>
       </provider>
