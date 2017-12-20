@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35f672c6-bf1d-49e8-b55a-ef1601f1e73a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Assignment 8 CSS Blog/index.html" afterPath="$PROJECT_DIR$/Assignment 8 CSS Blog/index.html" />
-    </list>
+    <list default="true" id="35f672c6-bf1d-49e8-b55a-ef1601f1e73a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignment 8 CSS Blog/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="292">
@@ -36,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blog.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assignment 8 CSS Blog/blog.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="832">
@@ -255,7 +253,7 @@
       <workItem from="1513416127817" duration="6000" />
       <workItem from="1513416141920" duration="779000" />
       <workItem from="1513416975034" duration="1255000" />
-      <workItem from="1513473125444" duration="13152000" />
+      <workItem from="1513473125444" duration="13374000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed table formatting">
       <created>1513411877201</created>
@@ -268,7 +266,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19019000" />
+    <option name="totallyTimeSpent" value="19241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-1359" width="2418" height="1318" extended-state="6" />
@@ -455,18 +453,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment 8 CSS Blog/blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assignment 8 CSS Blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment 8 CSS Blog/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
           <folding />
         </state>
       </provider>
